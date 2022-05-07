@@ -1,0 +1,27 @@
+Definição Dos Termos
+1.	Sprint
+2.	Product Backlog
+3.	Sprint PLanning
+4.	Sprint Baclog
+5.	Daily Meeting
+6.	Sprint Review
+7.	Sprint Retrospective
+8.	Scrum Master
+9.	Product Owner
+
+Sprint
+O sprint é um conceito utilizado no Scrum — metodologia de gerenciamento de projetos bastante usada por setores como o de software, mas que também pode ser aplicada em diversas outras áreas. Pode-se dizer que o sprint é, na verdade, o conceito principal do Scrum. Isso porque é nele que serão discutidas as etapas, avanços e melhorias de um projeto, chegando-se, então, ao melhor produto final possível.
+Product Backlog 
+O product backlog faz parte do framework de desenvolvimento Scrum, e é ligado diretamente ao Product Owner (PO), responsável por sua criação, conteúdo, disponibilidade e priorização. Sua função é documentar de forma clara todos os requisitos que vão surgindo durante o desenvolvimento de um projeto.
+
+Sprint Planning
+O planejamento do sprint é um evento no scrum que inicia o sprint. O objetivo do planejamento do sprint é definir o que pode ser entregue no sprint e como esse trabalho vai ser alcançado. O planejamento do sprint é feito em colaboração com toda a equipe Scrum.
+
+Sprint Backlog
+O Sprint Backlog representa
+ tudo o que deverá ser feito durante a próxima Sprint do seu projeto. Ele surge a partir do que foi levantado e listado, pelo Product Owner, no Product Backlog. A maioria dos itens que estão no Product Backlog serão implementados 
+
+
+Daily meeting
+A famosa Daily Scrum, também conhecida por Reuniões diárias, Daily Meeting, Stand-Up Meeting, Daily Stand-Up ou até mesmo Scrum Diário é uma reunião diária, de 15 minutos, para discutir o que foi feito, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar.
+
