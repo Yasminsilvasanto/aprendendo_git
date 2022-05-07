@@ -9,7 +9,7 @@ Definição Dos Termos
 8.	Scrum Master
 9.	Product Owner
 
-Sprint qualquer coisa
+Sprint qualquer coisag
 O sprint é um conceito utilizado no Scrum — metodologiaa de gerenciamento de projetos bastante usada por setores como o de software, mas que também pode ser aplicada em diversas outras áreas. Pode-se dizer que o sprint é, na verdade, o conceito principal do Scrum. Isso porque é nele que serão discutidas as etapas, avanços e melhorias de um projeto, chegando-se, então, ao melhor produto final possível.n
 Product Backlog 
 O product backlog faz parte do framework de desenvolvimento Scrum, e é ligado diretamente ao Product Owner (PO), responsável por sua criação, conteúdo, disponibilidade e priorização. Sua função é documentar de forma clara todos os requisitos que vão surgindo durante o desenvolvimento de um projeto.
